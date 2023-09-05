@@ -1,0 +1,27 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Unreal Projects/Survival/Content/RuralAustralia/Maps/RuralAustralia_Example_02.umap",
+				"C:/Unreal Projects/Survival/Content/BP_BipedalCharacter.uasset",
+				"C:/Program Files/Epic Games/UE_5.1/Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_Skeleton.uasset",
+				"C:/Program Files/Epic Games/UE_5.1/Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/Yaku_J_Ignite.uasset",
+				"C:/Program Files/Epic Games/UE_5.1/Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/Yaku_J_Ignite_PhysicsAsset.uasset",
+				"C:/Program Files/Epic Games/UE_5.1/Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/yaku_zombie_material.uasset",
+				"C:/Program Files/Epic Games/UE_5.1/Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/Yakuzombie_.uasset",
+				"C:/Program Files/Epic Games/UE_5.1/Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/Yakuzombie_diffuse.uasset",
+				"C:/Program Files/Epic Games/UE_5.1/Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/Yakuzombie_normal.uasset",
+				"C:/Program Files/Epic Games/UE_5.1/Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/Yakuzombie_specular.uasset",
+				"C:/Program Files/Epic Games/UE_5.1/Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/yifu.uasset",
+				"C:/Unreal Projects/Survival/Content/ParagonKallari/Characters/Heroes/Kallari/Animations/AimOffsets/Idle_AimOffset.uasset",
+				"C:/Unreal Projects/Survival/Content/ABP_BipedalCharacter.uasset",
+				"C:/Unreal Projects/Survival/Content/BS_BipedalCharacter.uasset",
+				"C:/Unreal Projects/Survival/Content/ParagonKallari/Characters/Heroes/Kallari/Meshes/Kallari_CylShadows.uasset",
+				"C:/Unreal Projects/Survival/Content/ParagonKallari/Characters/Heroes/Kallari/Meshes/Kallari_Skeleton.uasset"
+			]
+		}
+	]
+}
