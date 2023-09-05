@@ -1049,3 +1049,7 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.09.05-18.44.55:705][208]LogSlate: Took 0.000937 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
 [2023.09.05-18.44.58:695][326]LogSlate: Window 'Add C++ Class' being destroyed
 [2023.09.05-18.45.22:304][542]LogDerivedDataCache: C:/Users/Prakhar Mishra/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:07.308 and deleted 0 files with total size 0 MiB. Scanned 4266 files in 4226 folders with total size 1286 MiB.
+[2023.09.05-19.45.23:375][344]LogDerivedDataCache: C:/Users/Prakhar Mishra/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:08.371 and deleted 0 files with total size 0 MiB. Scanned 4266 files in 4226 folders with total size 1286 MiB.
+[2023.09.05-20.30.16:146][420]LogAudioMixer: Warning: Audio Thread Command from SetListenerTransforms()() took 2.307900 milleseconds to execute
+[2023.09.05-20.30.22:127][547]LogSlate: Window 'Content Browser' being destroyed
+[2023.09.05-20.30.22:160][547]LogSlate: Window 'Content Browser' being destroyed

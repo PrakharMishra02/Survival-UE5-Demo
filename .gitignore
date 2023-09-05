@@ -1,5 +1,8 @@
 .vscode
-Content
+/Content/Collections/*
+/Content/Developers/*
+/Content/ParagonKallari/*
+/Content/RuralAustralia
 Intermediate
 /Source/plants_*/
 /Source/grass_*/
